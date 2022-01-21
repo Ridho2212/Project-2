@@ -1,0 +1,9 @@
+.Gberita {
+    width: 150px;
+    height: 100px;
+}
+.gblur {
+    filter: brightness(50%);
+    -webkit-filter: brightness(50%);;
+}
+

@@ -1,0 +1,17 @@
+.breadcrumb {
+    float: right;
+}
+
+.Gberita {
+    width: 80px;
+    height: 80px;
+}
+
+.daftar {
+    float: left;
+    margin-left: 2vw;
+}
+
+.list-item {
+    list-style: none;
+}
